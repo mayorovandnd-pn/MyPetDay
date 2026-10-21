@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" preserveAspectRatio="xMidYMid meet"><title>Mini-pig</title><g stroke="#234E52" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+<g data-part="shadow"><ellipse cx="162" cy="292" rx="94" ry="14" fill="#234E52" opacity=".13" stroke="none"/></g>
+<g data-part="tail"><path d="M224 248C256 259 275 243 264 229C256 219 241 228 250 237C258 245 275 232 274 217" fill="none" stroke="#A78D80" stroke-width="11"/></g>
+<g data-part="body"><ellipse cx="162" cy="224" rx="73" ry="61" fill="#C7AEA0"/><ellipse cx="157" cy="220" rx="42" ry="44" fill="#E9D7C6" stroke="none"/><path d="M122 232L121 270M194 232L195 270" fill="none"/></g>
+<g data-part="paws"><path d="M100 266Q121 254 142 269L141 283Q121 293 101 283Z" fill="#6D675F"/><path d="M175 269Q196 255 216 266L215 283Q195 293 176 283Z" fill="#6D675F"/><path d="M122 271V287M195 271V287" fill="none" stroke="#E9D7C6" stroke-width="3"/></g>
+<g data-part="ears"><path d="M115 94Q85 76 96 51Q121 51 142 79L125 110Z" fill="#C7AEA0"/><path d="M179 78Q203 50 224 51Q238 76 204 99L196 111Z" fill="#C7AEA0"/><path d="M105 64Q119 64 129 80L116 93Z" fill="#BC7159" stroke-width="2.5"/><path d="M190 80Q204 64 216 63L211 90Z" fill="#BC7159" stroke-width="2.5"/></g>
+<g data-part="face"><ellipse cx="160" cy="128" rx="66" ry="56" fill="#C7AEA0"/><path d="M103 101Q96 96 97 84M218 100Q227 92 224 81" fill="none" stroke-width="2.5"/>
+<ellipse cx="160" cy="145" rx="31" ry="21" fill="#D49B86"/><ellipse cx="148" cy="144" rx="4.5" ry="6" fill="#234E52" stroke="none"/><ellipse cx="172" cy="144" rx="4.5" ry="6" fill="#234E52" stroke="none"/>
+<g data-expression="neutral"><ellipse cx="132" cy="117" rx="5" ry="5" fill="#234E52" stroke="none"/><ellipse cx="188" cy="117" rx="5" ry="5" fill="#234E52" stroke="none"/><path d="M147 169Q160 175 173 169" fill="none" stroke-width="3"/></g>
+<g data-expression="happy" style="display:none"><path d="M124 119Q132 109 140 119M180 119Q188 109 196 119" fill="none"/><path d="M146 167Q160 180 174 167" fill="none" stroke-width="3"/></g>
+<g data-expression="excited" style="display:none"><ellipse cx="132" cy="116" rx="6" ry="6" fill="#234E52" stroke="none"/><ellipse cx="188" cy="116" rx="6" ry="6" fill="#234E52" stroke="none"/><ellipse cx="130" cy="114" rx="1.5" ry="1.5" fill="#FFFCF5" stroke="none"/><ellipse cx="186" cy="114" rx="1.5" ry="1.5" fill="#FFFCF5" stroke="none"/><path d="M148 168Q160 190 173 168Z" fill="#BC7159" stroke-width="3"/></g>
+</g></g></svg>
